@@ -1,0 +1,16 @@
+Enonse 5: Kalkile epi afiche rezilta adisyon, soustraksyon, miltiplikasyon ak divizyon 2 nonb gras ak operatè matematik ki nan JavaScript yo.
+
+var premyeNonb = 10;
+var dezyemNonb = 5;
+
+var reziltaAdisyon = premyeNonb + dezyemNonb;
+console.log("Rezilta Adisyon: " + reziltaAdisyon);
+
+var reziltaSoustraksyon = premyeNonb - dezyemNonb;
+console.log("Rezilta Soustraksyon: " + reziltaSoustraksyon);
+
+var reziltaMiltiplikasyon = premyeNonb * dezyemNonb;
+console.log("Rezilta Miltiplikasyon: " + reziltaMiltiplikasyon);
+
+var reziltaDivizyon = premyeNonb / dezyemNonb;
+console.log("Rezilta Divizyon: " + reziltaDivizyon);

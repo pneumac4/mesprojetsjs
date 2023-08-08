@@ -1,0 +1,4 @@
+Enonse 1: Kreye yon senp fichye JS, epi relye li ak yon paj HTML pou w kapab afiche nan konsòl navigatè a "Coding Challenge".
+
+console.log("Coding Challenge");
+

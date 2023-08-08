@@ -1,0 +1,4 @@
+Enonse 3: Itilize console.info() pou w afiche yon mesaj nan konsòl navigatè, epi yon lòt ak console.error() pou w afiche yon tèks erè
+
+console.info("Peze ti pous gri a");
+console.error("Ou dwe peze ti pous gri a");

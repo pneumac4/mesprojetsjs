@@ -1,0 +1,3 @@
+Enonse 2: Ekri yon kòd JavaScript ki itilize alert() pou di byenvini lè yon itilizatè fèk vizite sitwèb ou a.
+
+alert("Byenvini");

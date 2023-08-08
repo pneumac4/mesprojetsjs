@@ -1,0 +1,6 @@
+Enonse 4: Deklare yon varyab pou w anrejistre non w, ak yon lòt varyab ki anrejistre laj ou. Answit afiche yon mesaj ki konbine varyab sa yo ansanm.
+
+const non="Pneuma";
+const dat="27/11/1998";
+
+console.log('Mwen se ${non}, mwen fet ${dat}');
